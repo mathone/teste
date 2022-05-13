@@ -19,9 +19,13 @@
   "files": [
     "*.js"
   ],
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
   "keywords": [
     "npm",
     "npm publish",
     "npm publish teste"
-  ]
+  ],
+  "private": false
 }
