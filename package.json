@@ -1,0 +1,27 @@
+{
+  "name": "@mathone/teste",
+  "version": "1.0.0",
+  "description": "Teste",
+  "author": {
+    "name": "Lucas Mathioni",
+    "email": "mathioni@me.com",
+    "url": "https://github.com/lucasmathioni"
+  },
+  "homepage": "https://github.com/mathone/teste#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathone/teste.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mathone/teste/issues"
+  },
+  "main": "index.js",
+  "files": [
+    "*.js"
+  ],
+  "keywords": [
+    "npm",
+    "npm publish",
+    "npm publish teste"
+  ]
+}
